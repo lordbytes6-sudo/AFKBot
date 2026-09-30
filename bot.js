@@ -137,9 +137,9 @@ Everything you set up is **only for you**.
 
 function createBot(session, userId) {
     const bot = mineflayer.createBot({
-        host: session.host,
-        port: session.port,
-        username: session.username,
+        host: session.host,EndlesMC.aternos.me:30100
+        port: session.port,30100
+        username: session.BOT,
         auth: 'offline'
     });
 
